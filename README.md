@@ -51,6 +51,6 @@
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuveeraprasath)
 [![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=flat&logo=vercel&logoColor=white)](https://madhuveeraprasath.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuveeraprasath)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:madhuprasath.a@gmail.com)
